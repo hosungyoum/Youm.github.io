@@ -94,9 +94,9 @@ analytics:
 author:
   name             : "Youm"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Study journal"
+  bio              : "Project Manager"
   location         : "SEOUL"
-  email            :
+  email            : "hosungyoum@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
