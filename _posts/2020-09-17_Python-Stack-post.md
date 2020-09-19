@@ -22,7 +22,7 @@ Stack의 동작은 다음과 같고, 시간복잡도는 모두O(1)이다.
 ​```python
 
 class Stack(object):
-.
+
     def__init__(self):
         self.items = []
 
