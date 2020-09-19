@@ -1,11 +1,15 @@
 ---
-title: "Swift_Closures"
-date: 2020-09-08 20:00:00 -0400
-categories: Swift Ios
+title: "Python_Queue"
+date: 2020-09-19 14:00:00 -0400
+categories: Python Algorithm
 ---
-클로저는 코드 내에서 
+Queue는 스택과 다르게 항목이 들어온 순서대로 접근 가능하다. 
 
-Jekyll also offers powerful support for code snippets:
+즉, 먼저들어온 데이터가 먼저 나가는ㄴ 선입선출(FIFO)구조다.
+
+큐 여시 배열의 인덱스 접근이 제한된다. 시간복잡도는 스택과 마찬가지로 모두O(1)이다. 
+
+
 
 ​```python
 

@@ -1,7 +1,7 @@
 ---
-title: "Stack"
-date: 2020--09--17 15:00:00 -0400
-categories: Python
+title: "Python_Stack"
+date: 2020-09-17 20:00:00 -0400
+categories: Python Algorithm
 ---
 Stack은 데이터의 삽입과 삭제를 배열의 끝에서만 데이터를 접근할 수 있는 선형 자료구조이다. 스택은 배열 인덱스 접근이 제한되며, 
 
@@ -28,6 +28,7 @@ class Stack(object):
 
 ​```
 
+파이썬 알고리즘 정리1
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
