@@ -1,7 +1,7 @@
 ---
 title: "Swift_Closures"
 date: 2020-09-08 20:00:00 -0400
-categories: Swift Ios
+categories: Swift iOS
 ---
 클로저는 코드 내에서 
 

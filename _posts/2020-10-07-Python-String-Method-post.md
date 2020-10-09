@@ -4,32 +4,41 @@ date: 2020-10-07 14:00:00 -0400
 categories: Python Algorithm
 ---
 
-    join()
+join()
+
+= A.join(B)는 리스트 B에 있는 문자열을 하나의 단일 문자열 A로 결합한다.
+
+    ex) A = ["개발자", "공부"]
+    " ".join(A)
+    ="개발자 공부"
+
+내장함수 reversed()매서드를 join()과 같이 사용할 수 있다.
+
+    "".join((A))
+    ="공부 개발자"
+
+split()
+
+= A.split(t,n)는 문자열 A에서 문자열 t를 기준으로 정수 n번만큼 분리한 문자열 리스트를 반환한다.
+
+    ex) A = "공부-개발-파이썬"
+        B = A.split("-")
+      = B
+      ["공부", "개발", "파이썬"]
+
+ 위의 설명처럼 n을 지정하지 않아도 예제처럼 t로 최대한 분리한다.     
 
 
 
 
 
-    push: 스택 맨 끝(맨 위)에 항목을 삽입한다.
-
-    pop: 스택 맨 끝 항목을 반환하는 동시에 제거한다.
-
-    top/peek: 스택 맨 끝 항목을 조회한다.
-
-    empty: 스택이 비어 있는지 확인한다.
-
-    size: 스택 크기를 확인한다.
 
 
 
-​```python
 
-class Stack(object):
 
-    def__init__(self):
-        self.items = []
 
-​```
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
