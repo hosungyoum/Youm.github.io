@@ -18,7 +18,7 @@ locale                   : "en-US"
 title                    : "Youm Prototype"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hosung Youm"
+name                     : "Hosung"
 description              : "Project Manager, iOS Developer"
 url                      : "https://hosungyoum.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
