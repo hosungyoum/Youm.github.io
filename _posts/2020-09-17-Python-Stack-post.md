@@ -1,7 +1,7 @@
 ---
 title: "Python[Stack]"
 date: 2020-09-17 14:00:00 -0400
-categories: Python Algorithm
+categories: Python
 ---
 
 Stack은 데이터의 삽입과 삭제를 배열의 끝에서만 

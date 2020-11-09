@@ -1,7 +1,7 @@
 ---
 title: "Python[Queue]"
 date: 2020-09-19 14:00:00 -0400
-categories: Python Algorithm
+categories: Python 
 ---
 Queue는 스택과 다르게 항목이 들어온 순서대로 접근 가능하다. 
 

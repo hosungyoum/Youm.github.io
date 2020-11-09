@@ -85,7 +85,7 @@ social:
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
+  google:ßß
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "Hosung Youm"
-  avatar           : "/assets/images/Hand.JPG"
+  avatar           : "/assets/images/Hand 2.JPG"
   bio              : "Project Manager, iOS Developer"
   location         : "Seoul"
   email            : "hosungyoum@gmail.com"
