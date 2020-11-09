@@ -1,5 +1,5 @@
 ---
-title: "Swift_Closures"
+title: "Swift[Closures]"
 date: 2020-09-08 20:00:00 -0400
 categories: Swift iOS
 ---

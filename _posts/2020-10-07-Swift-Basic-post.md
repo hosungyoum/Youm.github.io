@@ -1,5 +1,5 @@
 ---
-title: "Swift_Basic"
+title: "Swift[Basic]"
 date: 2020-10-07 14:00:00 -0400
 categories: Swift
 ---

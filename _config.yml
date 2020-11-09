@@ -18,8 +18,8 @@ locale                   : "en-US"
 title                    : "Youm Prototype"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Youm"
-description              : "Study Journal"
+name                     : "Hosung Youm"
+description              : "Project Manager, iOS Developer"
 url                      : "https://hosungyoum.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -50,7 +50,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true #false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -92,10 +92,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Youm"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Study journal"
-  location         : "SEOUL"
+  name             : "Hosung Youm"
+  avatar           : "/assets/images/20201109.png"
+  bio              : "Project Manager, iOS Developer"
+  location         : "Seoul"
   email            : "hosungyoum@gmail.com"
   links:
     - label: "Email"
