@@ -1,7 +1,7 @@
 ---
-title: "Python[String]"
+title: "Swift[Basics]"
 date: 2020-10-07 14:00:00 -0400
-categories: Python 
+categories: Swift 
 ---
 
 Swfit에서 상수(constants)는 개발 전반에 걸쳐 사용되지만, 바꿀 필요가 없는 값을 안전하고 명확하게 만들어 준디.
@@ -31,12 +31,3 @@ friendlyWelcome = "Bonjour!"; print(friendlyWelcome)
 //friendlyWelcome의 값은 Bonjour! 로 바뀐다.
 //세미콜론을 작성하면 여러 개의 분리된 구문을 한 줄에 쓸 수 있다.
 ​```
-
-
-
-
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
