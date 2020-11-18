@@ -1,7 +1,7 @@
 ---
 title: "Swit[tuple]"
 date: 2020-11-18 14:00:00 -0400
-categories: Python
+categories: Swift
 ---
 
 # Swift 상수
