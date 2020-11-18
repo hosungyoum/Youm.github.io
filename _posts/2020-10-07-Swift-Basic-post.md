@@ -27,8 +27,3 @@ Type Annotations(타입 보조 설명)
     var Study: String
 
 위 코드를 읽는다면, String 타입인 Study라는 변수를 선언한다.
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
