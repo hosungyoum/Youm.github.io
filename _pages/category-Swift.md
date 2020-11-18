@@ -1,6 +1,7 @@
 ---
 title: "Swift"
-layout: category-Swift
-permalink: /Swift/
+layout: category
+permalink: /categories/Swift/
 author_profile: true
+
 ---

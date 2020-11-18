@@ -1,6 +1,6 @@
 ---
 title: "Python"
-layout: category-Python
-permalink: /Python/
+layout: category
+permalink: /categoies/Python/
 author_profile: true
 ---
