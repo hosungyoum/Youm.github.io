@@ -1,5 +1,7 @@
 main:
   - title: "Swift"
-    url: /Swift/
+    url: /categories/Swift/
   - title: "Python"
-    url: /Python/
+    url: /categories/Python/
+  - title: "About"
+    url: /about/  
