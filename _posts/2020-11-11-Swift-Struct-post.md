@@ -13,7 +13,7 @@ Swift는 기본 자료형 타입(Int, Float, Double, String, Array, Dictionary, 
 ```Swift
 
 struct 예제 {
-        //구조체를 정의
+//구조체를 정의
 }
 ​```
 
@@ -44,10 +44,10 @@ class Resolution {
 ```Swift
 
 class Video {
-        var resolution = Resolution()
-        var interlaced = false
-        var frameRate = 0.0
-        var name: String?
+var resolution = Resolution()
+var interlaced = false
+var frameRate = 0.0
+var name: String?
 }
 ​```
 [공통점]
@@ -65,20 +65,3 @@ class Video {
 2. 타입 캐스팅은 클래스의 인스턴스에서만 사용이 가능하다.
 3. 디이니셜 라이저는 클래스의 인스턴스에만 사용할 수 있다.
 4. 참조 횟수 계산은 클래스의 인스턴스에서만 적용된다.
-
-
-
-
-
-
-
-
-
-
-
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
