@@ -1,5 +1,5 @@
 ---
-title: "SwitUI[튜토리얼]"
+title: "tutorial"
 date: 2020-11-25 20:00:00 -0400
 categories: SwiftUI
 ---
@@ -21,7 +21,8 @@ categories: SwiftUI
 
         작성해야합니다
 
-                                                    """
+"""
+
 
 
     """
@@ -34,4 +35,4 @@ categories: SwiftUI
 
         View를 다시 렌더링한다.    
         
-                                                        """
+                                                

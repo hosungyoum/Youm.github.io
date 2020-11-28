@@ -1,5 +1,5 @@
 ---
-title: "Python[Stack]"
+title: "Stack"
 date: 2020-09-17 14:00:00 -0400
 categories: Python
 ---

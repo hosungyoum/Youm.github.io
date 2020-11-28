@@ -1,5 +1,5 @@
 ---
-title: "Swift[Struct, Class]"
+title: "Struct, Class"
 date: 2020-11-11 15:30:00 -0400
 categories: Swift 
 ---

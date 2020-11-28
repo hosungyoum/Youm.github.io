@@ -1,5 +1,5 @@
 ---
-title: "Python[Queue]"
+title: "Queue"
 date: 2020-09-19 14:00:00 -0400
 categories: Python 
 ---

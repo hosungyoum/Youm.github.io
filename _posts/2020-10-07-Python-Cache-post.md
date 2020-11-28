@@ -1,5 +1,5 @@
 ---
-title: "Python[Cache]"
+title: "Cache"
 date: 2020-10-07 14:00:00 -0400
 categories: Python 
 ---
