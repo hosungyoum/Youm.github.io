@@ -1,7 +1,15 @@
 main:
   - title: "Swift"
     url: /categories/Swift/
+  - title: "SwiftUI"
+    url: /categories/SwiftUI/  
   - title: "Python"
     url: /categories/Python/
+  - title: "SQL"
+    url: /categories/SQL
+  - title: "Java"
+    url: /categories/Java
+  - title: "HTML,CSS"
+    url: /categories/HTML,CSS  
   - title: "About"
     url: /about/  
